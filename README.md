@@ -6,7 +6,7 @@ This project analyzes Motorola mobile sales data using Microsoft Power BI. The d
 
 ## 📸 Dashboard Preview
 
- [Dashboard Preview](Motorola-Dashboard.png)
+ [Dashboard Preview](https://github.com/jitendrakumar595/Mobile-Sales-Analysis-Dashboard/blob/main/Screenshots/Motorola-Dashboard.png)
 
 
 ## 🎯 Key Performance Indicators (KPIs)

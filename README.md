@@ -1,9 +1,11 @@
-# 📱 Motorola Mobile Sales Analysis Dashboard
+# 📱 Sales Analysis Dashboard
 
 ## 📌 Project Overview
 This project analyzes Motorola mobile sales data using Microsoft Power BI. The dashboard provides insights into sales performance, transactions, product demand, payment preferences, customer ratings, and geographical sales distribution.
 
+
 ## 📸 Dashboard Preview
+
  [Dashboard Preview](Motorola-Dashboard.png)
 
 
